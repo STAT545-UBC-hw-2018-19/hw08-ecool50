@@ -1,0 +1,12 @@
+name: Hw08_app
+title: Hw08_app
+username:
+account: ecool50
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 582927
+bundleId: 1712183
+url: https://ecool50.shinyapps.io/Hw08_app/
+when: 1542770908.90087
+asMultiple: FALSE
+asStatic: FALSE
