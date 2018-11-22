@@ -15,9 +15,9 @@ For this assigment, I added a few new features to the `BC liquor stores app`. Th
 
 # Links of possible interests
 
-* [Assignment Criteria]()
-* [Deployed App]()
-* [Source Code]()
+* [Assignment Criteria](http://stat545.com/Classroom/assignments/hw08/hw08.html)
+* [Deployed App](https://ecool50.shinyapps.io/Hw08_app/)
+* [Source Code](https://github.com/STAT545-UBC-students/hw08-ecool50/blob/master/bcl/app.R)
 
 # Caveats
 * Some of the work here may have been borrowed and modified from other sources.
